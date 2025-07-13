@@ -1,6 +1,6 @@
 # UPLOAD PROJECT
 ---
-Author: [Domingos Nkula Pedro](https://github.com/domingos3000)
+Author: [Domingos Nkula Pedro](https://github.com/dev-dnp)
 <br />
 Este projecto faz parte de uma obra de treinamento.
 Ela tem como objectivo fazer o upload (ou a subida) dos arquivos na nuvem.
@@ -33,7 +33,7 @@ Ela tem como objectivo fazer o upload (ou a subida) dos arquivos na nuvem.
 
 ## 📞 Minhas redes sociais
 ---
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingos3000/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/domingos_3000/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnp2001/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dnp.2001/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/domingos3000/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/domingos3000)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-dnp)
